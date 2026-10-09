@@ -1,0 +1,10 @@
+{
+  "title": "Disclaimer",
+  "slug": "disclaimer",
+  "navLabel": "",
+  "nav": false,
+  "description": "Guidelark provides general financial education, not personal financial advice. Read how to use the information on this site.",
+  "updated": "2026-10-09",
+  "body": "## General information only\n\nEverything on {{siteName}} is published for general education. It is not financial, legal, tax or investment advice, and it does not take your personal circumstances into account.\n\nBefore making a financial decision, check the figures against your own situation and, where the stakes are high, speak to a qualified professional in your country.\n\n## Accuracy\n\nI work to keep articles accurate and up to date, and I note when prices and product details were last checked. Even so, rates, fees, rules and app features change. Confirm details with the provider before relying on them.\n\n## Examples and results\n\nWorked examples use stated assumptions to show how a method works. Your results will differ. Nothing here is a promise of income, savings or any other outcome.\n\n## External links\n\nArticles link to other websites for reference. {{siteName}} is not responsible for their content.\n\n## Affiliate links and sponsorship\n\nAt the time of the last update shown above, {{siteName}} does not use affiliate links or sponsored content. If that changes, affected articles will carry a clear notice and this page will be updated.\n",
+  "order": 3
+}

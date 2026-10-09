@@ -1,0 +1,10 @@
+{
+  "title": "About Guidelark",
+  "slug": "about",
+  "navLabel": "About",
+  "nav": true,
+  "description": "Guidelark publishes plain-language guides to budgeting, saving, earning and paying off debt for students and people on small incomes.",
+  "updated": "2026-10-09",
+  "body": "Most money advice assumes you have money left over at the end of the month. {{siteName}} is for the months when you don't.\n\n## What you will find here\n\n- **Budgeting** that starts from small and irregular incomes\n- **Saving** methods that work with $10 at a time\n- **Earning** ideas that cost nothing to start\n- **Debt** payoff plans with the maths shown\n\nEvery article tries to do three things: use real numbers, say plainly when a popular rule doesn't fit, and end with something you can do this week.\n\n## Who is behind it\n\n{{siteName}} is an independent site run by one writer. I am not a licensed financial adviser, and nothing here is personal financial advice. I research each topic, show where figures come from, and update articles when the facts change.\n\n## How articles are made\n\n- Numbers in worked examples are calculated, not estimated, and the assumptions are stated.\n- Prices and product details carry the date they were last checked.\n- If an article ever contains an affiliate link or a sponsored mention, it will say so clearly at the top.\n- Corrections are welcome. If you spot an error, [tell me](/contact/) and I will fix it.\n\n## Get in touch\n\nQuestions, corrections and topic requests are welcome on the [contact page](/contact/).\n",
+  "order": 1
+}

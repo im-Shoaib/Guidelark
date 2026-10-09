@@ -1,0 +1,10 @@
+{
+  "title": "Privacy Policy",
+  "slug": "privacy",
+  "navLabel": "",
+  "nav": false,
+  "description": "What information Guidelark collects when you visit, how it is used, and the choices you have.",
+  "updated": "2026-10-09",
+  "body": "This policy explains what happens to your information when you visit {{siteUrl}}.\n\n## What this site collects\n\n{{siteName}} is a static website. It has no user accounts and no comment system.\n\n- **Cookies:** the site sets no cookies of its own.\n- **Theme preference:** if you switch between light and dark mode, that choice is saved in your own browser so it is remembered next time. It is never sent anywhere.\n- **Server logs:** the company that hosts this site may keep standard logs (IP address, browser type, pages requested) for security and reliability.\n\n## Analytics and advertising\n\nAt the time of the last update shown above, this site does not use analytics or advertising services. If either is added, this page will be updated to name the service, what it collects and how to opt out.\n\n## Email\n\nIf you email {{email}}, your address and message are used only to reply to you.\n\n## External links\n\nArticles link to other websites, which have their own privacy policies.\n\n## Changes\n\nAny change to this policy will be published on this page with a new date.\n\n## Contact\n\nQuestions about privacy can be sent to [{{email}}](mailto:{{email}}).\n",
+  "order": 4
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Guidelark",
+  "shortName": "Guidelark",
+  "tagline": "Money advice for small incomes",
+  "intro": "Budgets, side income and debt plans for students and anyone living on less than $1,000 a month.",
+  "description": "Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.",
+  "seoTitle": "Guidelark — Money Advice for Small Incomes",
+  "url": "https://guidelark.com",
+  "language": "en",
+  "locale": "en_US",
+  "perPage": 10,
+  "author": {
+    "name": "Guidelark",
+    "bio": "Guidelark publishes plain-language guides to budgeting, saving and earning on a small income, with the numbers shown.",
+    "email": "hello.guidelark@gmail.com",
+    "sameAs": []
+  },
+  "social": {
+    "twitter": ""
+  },
+  "categories": [
+    {
+      "slug": "budgeting",
+      "name": "Budgeting",
+      "title": "Budgeting on a Small Income",
+      "color": "green",
+      "description": "Budget methods, rules and tools that still work when there is not much left after rent."
+    },
+    {
+      "slug": "saving",
+      "name": "Saving",
+      "title": "Saving Money",
+      "color": "blue",
+      "description": "Emergency funds, everyday costs and the habits that keep money from leaking away."
+    },
+    {
+      "slug": "earning",
+      "name": "Earning",
+      "title": "Earning More",
+      "color": "yellow",
+      "description": "Side hustles, freelancing and skills that raise your income without money up front."
+    },
+    {
+      "slug": "debt",
+      "name": "Debt",
+      "title": "Getting Out of Debt",
+      "color": "red",
+      "description": "Payoff plans with the maths shown, so you can choose the one you will finish."
+    }
+  ],
+  "newsletter": {
+    "action": "",
+    "field": "email",
+    "title": "Get new articles by email",
+    "text": "One email when something new is published. Unsubscribe any time."
+  },
+  "disclaimer": "Guidelark publishes general education, not personal financial advice. Check the numbers against your own situation before acting.",
+  "headCode": "",
+  "bodyCode": ""
+}

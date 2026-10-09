@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Site admin</title>
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="admin.css">
+<script>
+/* "Live reload" servers (VS Code Live Server and similar) refresh the page whenever a file in the
+   folder changes. This admin changes files on purpose, so that refresh would cut every save short.
+   Live reload works over a WebSocket and the admin needs none, so it is switched off on this page only. */
+window.WebSocket = function () { return { close: function () {}, send: function () {}, addEventListener: function () {} }; };
+</script>
+</head>
+<body>
+
+<div id="connect" class="connect">
+  <div class="connect-box">
+    <svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#14213d"/><rect x="7" y="8" width="18" height="3.5" fill="#fbfcf8"/><rect x="7" y="14.25" width="18" height="3.5" fill="#ffd94a"/><rect x="7" y="20.5" width="11" height="3.5" fill="#fbfcf8"/></svg>
+    <h1>Site admin</h1>
+    <p>Write and publish articles here. Everything is saved as files inside your website folder on this computer. Nothing is uploaded until you put the folder online.</p>
+    <div id="connect-actions">
+      <button type="button" class="btn" id="reconnect" hidden>Continue with <span id="reconnect-name"></span></button>
+      <button type="button" class="btn" id="pick">Open website folder</button>
+    </div>
+    <p class="hint" id="connect-hint">Choose the folder that contains <code>index.html</code> and the <code>content</code> folder. Your browser will ask for permission to edit files in it.</p>
+    <p class="error" id="connect-error" hidden></p>
+  </div>
+</div>
+
+<div id="app" hidden>
+  <header class="bar">
+    <strong class="bar-name" id="bar-name">Site admin</strong>
+    <nav class="tabs" aria-label="Admin sections">
+      <button type="button" data-view="list" class="on">Articles</button>
+      <button type="button" data-view="pages">Pages</button>
+      <button type="button" data-view="settings">Settings</button>
+      <button type="button" data-view="help">Help</button>
+    </nav>
+    <a class="btn ghost" href="../index.html" target="_blank" rel="noopener">View site</a>
+    <button type="button" class="btn" id="rebuild">Rebuild site</button>
+  </header>
+  <div class="notice" id="notice" hidden></div>
+  <main id="view"></main>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="vendor/marked.min.js"></script>
+<script src="builder.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>

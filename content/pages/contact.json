@@ -1,0 +1,10 @@
+{
+  "title": "Contact",
+  "slug": "contact",
+  "navLabel": "",
+  "nav": false,
+  "description": "How to get in touch with Guidelark about corrections, questions and article ideas.",
+  "updated": "2026-10-09",
+  "body": "The best way to reach {{siteName}} is by email:\n\n**[{{email}}](mailto:{{email}})**\n\n## What to write about\n\n- **Corrections.** If a number or fact looks wrong, please include the article link and what you think it should be.\n- **Questions.** I read everything. I cannot give personal financial advice, but reader questions often become articles.\n- **Topic requests.** Tell me what you are trying to figure out.\n\nReplies usually take a few days.\n",
+  "order": 2
+}
