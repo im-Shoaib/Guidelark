@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$15",
   "figureLabel": "left from a $400 raise",
-  "cover": null,
-  "ogImage": "assets/img/og/lifestyle-inflation-examples.png",
+  "cover": {
+    "src": "assets/img/posts/cover-yaxhf-1200x675.webp",
+    "src600": "assets/img/posts/cover-yaxhf-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Cash and coins spilling from a paycheck envelope on a table beside a model house, car keys, a coffee cup, a phone and a shopping bag"
+  },
+  "ogImage": "assets/img/og/cover-yaxhf.jpg",
   "seoTitle": "",
   "keywords": "lifestyle inflation examples lifestyle creep raise savings rate raise-capture rate how to stop lifestyle inflation",
   "takeaways": [
