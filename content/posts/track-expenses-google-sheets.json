@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$703",
   "figureLabel": "tracked in one month",
-  "cover": null,
-  "ogImage": "assets/img/og/track-expenses-google-sheets.png",
+  "cover": {
+    "src": "assets/img/posts/cover-iow6f-1200x675.webp",
+    "src600": "assets/img/posts/cover-iow6f-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A smartphone showing a colourful spreadsheet next to a few crumpled receipts and a cup of coffee on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-iow6f.jpg",
   "seoTitle": "",
   "keywords": "track expenses google sheets expense tracker spreadsheet free spending tracker template monthly expenses by category",
   "takeaways": [

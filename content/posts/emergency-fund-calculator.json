@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$500",
   "figureLabel": "to 6 months, mapped",
-  "cover": null,
-  "ogImage": "assets/img/og/emergency-fund-calculator.png",
+  "cover": {
+    "src": "assets/img/posts/cover-czhym-1200x675.webp",
+    "src600": "assets/img/posts/cover-czhym-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "An open red first-aid tin filled with rolled banknotes next to a white piggy bank on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-czhym.jpg",
   "seoTitle": "Emergency Fund Calculator: How Much and How Long",
   "keywords": "emergency fund calculator emergency fund spreadsheet how much emergency fund do I need how long to save emergency fund",
   "takeaways": [

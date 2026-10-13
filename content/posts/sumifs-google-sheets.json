@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "7",
   "figureLabel": "budget formulas to practise",
-  "cover": null,
-  "ogImage": "assets/img/og/sumifs-google-sheets.png",
+  "cover": {
+    "src": "assets/img/posts/cover-jueuo-1200x675.webp",
+    "src600": "assets/img/posts/cover-jueuo-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A laptop showing a spreadsheet with highlighted green, yellow and blue cells next to an open notebook and a pen"
+  },
+  "ogImage": "assets/img/og/cover-jueuo.jpg",
   "seoTitle": "",
   "keywords": "sumifs google sheets sumif google sheets sumifs budget example sumifs date range sumif wildcard excel",
   "takeaways": [

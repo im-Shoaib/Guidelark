@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$275",
   "figureLabel": "a month, no surprises",
-  "cover": null,
-  "ogImage": "assets/img/og/sinking-funds-spreadsheet.png",
+  "cover": {
+    "src": "assets/img/posts/cover-kr4ww-1200x675.webp",
+    "src600": "assets/img/posts/cover-kr4ww-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A wooden box of labelled envelopes next to a small desk calendar and a few scattered coins"
+  },
+  "ogImage": "assets/img/og/cover-kr4ww.jpg",
   "seoTitle": "",
   "keywords": "sinking funds spreadsheet sinking fund template google sheets what is a sinking fund irregular expenses budget",
   "takeaways": [

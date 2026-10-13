@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "3",
   "figureLabel": "goals, one plan",
-  "cover": null,
-  "ogImage": "assets/img/og/savings-goal-tracker.png",
+  "cover": {
+    "src": "assets/img/posts/cover-96p2v-1200x675.webp",
+    "src600": "assets/img/posts/cover-96p2v-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Three glass jars filled with coins to different heights, with a white paper plane beside the fullest jar"
+  },
+  "ogImage": "assets/img/og/cover-96p2v.jpg",
   "seoTitle": "",
   "keywords": "savings goal tracker spreadsheet savings tracker google sheets free savings template excel save each month calculator",
   "takeaways": [

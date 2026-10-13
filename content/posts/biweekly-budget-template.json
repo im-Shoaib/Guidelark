@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "26",
   "figureLabel": "paychecks a year",
-  "cover": null,
-  "ogImage": "assets/img/og/biweekly-budget-template.png",
+  "cover": {
+    "src": "assets/img/posts/cover-4ksaw-1200x675.webp",
+    "src600": "assets/img/posts/cover-4ksaw-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A desk calendar with two days circled in red, a red pencil, a brown pay envelope and a small stack of coins"
+  },
+  "ogImage": "assets/img/og/cover-4ksaw.jpg",
   "seoTitle": "",
   "keywords": "biweekly budget template paycheck budget spreadsheet budget by paycheck google sheets three paycheck months",
   "takeaways": [

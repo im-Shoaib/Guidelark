@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "3 days",
   "figureLabel": "warning before each bill",
-  "cover": null,
-  "ogImage": "assets/img/og/bill-tracker-template.png",
+  "cover": {
+    "src": "assets/img/posts/cover-mtvk0-1200x675.webp",
+    "src600": "assets/img/posts/cover-mtvk0-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A stack of banknotes, a green alarm clock and a bill checklist with ticked boxes and a pen on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-mtvk0.jpg",
   "seoTitle": "",
   "keywords": "bill tracker template bill payment tracker spreadsheet monthly bill checklist google sheets free bill organizer",
   "takeaways": [

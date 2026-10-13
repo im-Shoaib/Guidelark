@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$409",
   "figureLabel": "saved with the avalanche",
-  "cover": null,
-  "ogImage": "assets/img/og/debt-snowball-spreadsheet.png",
+  "cover": {
+    "src": "assets/img/posts/cover-8b7e0-1200x675.webp",
+    "src600": "assets/img/posts/cover-8b7e0-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A stack of credit cards held together with a rubber band, a ball of crumpled paper and a pencil on a sunny wooden desk"
+  },
+  "ogImage": "assets/img/og/cover-8b7e0.jpg",
   "seoTitle": "",
   "keywords": "debt snowball spreadsheet debt avalanche spreadsheet debt payoff calculator google sheets excel free download",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "vs",
   "figureLabel": "Sheets or Excel",
-  "cover": null,
-  "ogImage": "assets/img/og/google-sheets-vs-excel-budgeting.png",
+  "cover": {
+    "src": "assets/img/posts/cover-6g1lt-1200x675.webp",
+    "src600": "assets/img/posts/cover-6g1lt-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Two laptops side by side on a wooden table, one showing a warm yellow and orange spreadsheet and the other a blue and green one, with a cup of coffee between them"
+  },
+  "ogImage": "assets/img/og/cover-6g1lt.jpg",
   "seoTitle": "",
   "keywords": "google sheets vs excel for budgeting is google sheets free excel free version budget spreadsheet which is better",
   "takeaways": [
