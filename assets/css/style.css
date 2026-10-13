@@ -99,7 +99,7 @@ button { cursor: pointer; }
   :root:not([data-theme="light"]) .i-moon { display: none; }
   :root:not([data-theme="light"]) .i-sun { display: block; }
 }
-@media (max-width: 44rem) {
+@media (max-width: 52rem) {
   .menu-btn { display: grid; }
   .nav { display: none; position: absolute; left: 0; right: 0; top: 100%; z-index: 10; flex-direction: column; gap: 0; background: var(--paper); border-bottom: 2px solid var(--ink); padding: 0.5rem var(--gap) 1rem; }
   .nav.open { display: flex; }

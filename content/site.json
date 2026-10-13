@@ -46,6 +46,13 @@
       "title": "Getting Out of Debt",
       "color": "red",
       "description": "Payoff plans with the maths shown, so you can choose the one you will finish."
+    },
+    {
+      "slug": "templates",
+      "name": "Templates",
+      "title": "Free Money Templates and Spreadsheet Guides",
+      "color": "violet",
+      "description": "Free budget spreadsheets and plain-language Google Sheets and Excel guides for budgeting, saving and paying off debt."
     }
   ],
   "newsletter": {
