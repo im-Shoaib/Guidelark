@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 13 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Budget With Irregular Income: A Simple System</title>
+<link>https://guidelark.com/blog/budget-with-irregular-income/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/budget-with-irregular-income/</guid>
+<pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+<category>Budgeting</category>
+<description>Learn how to budget with irregular income: pay yourself a steady salary, build a buffer, and handle taxes without the monthly guesswork.</description>
+</item>
 <item>
 <title>Biweekly Budget Template: Plan Your Money Paycheck by Paycheck</title>
 <link>https://guidelark.com/blog/biweekly-budget-template/</link>
@@ -85,7 +93,7 @@
 <guid isPermaLink="true">https://guidelark.com/blog/sinking-funds-spreadsheet/</guid>
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
-<description>What sinking funds are and how to plan them, with a free spreadsheet that works out how much to set aside each month for every known cost.</description>
+<description>A free sinking funds spreadsheet for Google Sheets and Excel that works out how much to set aside each month for every known cost, with a worked example.</description>
 </item>
 <item>
 <title>SUMIF and SUMIFS in Google Sheets: A Budgeting Guide</title>
@@ -158,14 +166,6 @@
 <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
 <category>Earning</category>
 <description>15 side hustles for college students that cost nothing to start, what each one really involves, how to land a first client, and scam signs to avoid.</description>
-</item>
-<item>
-<title>Best Free Budgeting Apps: What You Really Get for $0</title>
-<link>https://guidelark.com/blog/best-free-budgeting-apps/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/best-free-budgeting-apps/</guid>
-<pubDate>Tue, 15 Sep 2026 08:00:00 +0000</pubDate>
-<category>Budgeting</category>
-<description>Free budgeting apps compared by what the free plan really includes: Goodbudget, EveryDollar, Rocket Money, Empower and a spreadsheet, plus how to pick one.</description>
 </item>
 </channel>
 </rss>
