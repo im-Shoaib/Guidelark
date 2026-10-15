@@ -62,6 +62,6 @@
     "text": "One email when something new is published. Unsubscribe any time."
   },
   "disclaimer": "Guidelark publishes general education, not personal financial advice. Check the numbers against your own situation before acting.",
-  "headCode": "",
+  "headCode": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-D2VHWBRH2T\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-D2VHWBRH2T');\n</script>",
   "bodyCode": ""
 }
