@@ -170,11 +170,12 @@
         '<time datetime="' + esc(p.updated || p.date) + '">' + (p.updated && p.updated !== p.date ? 'Updated ' : '') + fmtDate(p.updated || p.date) + '</time>' +
         '<span>' + readingTime(p.body) + ' min read</span></div>';
     }
-    function card(p, P, tag) {
-      tag = tag || 'h3';
-      return '<li class="card">' + cover(p, P, { decorative: true, sizes: '(min-width: 40rem) 20rem, 100vw' }) +
-        '<' + tag + '><a class="stretch" href="' + P + postPath(p) + '">' + esc(p.title) + '</a></' + tag + '>' +
-        '<p>' + esc(p.description) + '</p>' + metaLine(p, P) + '</li>';
+    function card(p, P, opt) {
+      opt = typeof opt === 'string' ? { tag: opt } : (opt || {});
+      var tag = opt.tag || 'h3';
+      return '<li class="card">' + cover(p, P, { decorative: true, sizes: '(min-width: 64rem) 22rem, (min-width: 40rem) 45vw, 100vw' }) +
+        '<div class="card-body"><' + tag + '><a class="stretch" href="' + P + postPath(p) + '">' + esc(p.title) + '</a></' + tag + '>' +
+        '<p>' + esc(p.description) + '</p>' + metaLine(p, P, opt) + '</div></li>';
     }
     function row(p, P, opt) {
       var tag = (opt && opt.tag) || 'h3';
@@ -352,8 +353,8 @@
         var pager = pageCount > 1 ? '<nav class="pager" aria-label="More articles">' +
           (n > 1 ? '<a href="' + ((P + listPath(n - 1)) || './') + '" rel="prev">Newer articles</a>' : '<span></span>') +
           (n < pageCount ? '<a href="' + P + listPath(n + 1) + '" rel="next">Older articles</a>' : '<span></span>') + '</nav>' : '';
-        var list = slice.length ? '<section class="section" aria-labelledby="latest"><div class="section-head"><h2 id="latest">' + (n === 1 ? 'Latest articles' : 'Articles, page ' + n) + '</h2></div><ul class="ledger">' +
-          slice.map(function (p) { return row(p, P); }).join('') + '</ul>' + pager + '</section>' : '';
+        var list = slice.length ? '<section class="section" aria-labelledby="latest"><div class="section-head"><h2 id="latest">' + (n === 1 ? 'Latest articles' : 'Articles, page ' + n) + '</h2></div><ul class="cards">' +
+          slice.map(function (p) { return card(p, P); }).join('') + '</ul>' + pager + '</section>' : '';
         var main;
         if (n === 1) {
           main = '<main id="main" class="wrap">' +
@@ -392,7 +393,7 @@
       var list = posts.filter(function (p) { return p.category === c.slug; });
       var main = '<main id="main" class="wrap"><header class="page-head"><ol class="crumbs"><li><a href="' + P + '">Home</a></li></ol><h1>' + esc(c.title || c.name) + '</h1>' +
         (c.description ? '<p>' + esc(c.description) + '</p>' : '') + '</header>' +
-        '<ul class="ledger">' + list.map(function (p) { return row(p, P, { noCat: true, tag: 'h2' }); }).join('') + '</ul></main>';
+        '<ul class="cards">' + list.map(function (p) { return card(p, P, { noCat: true, tag: 'h2' }); }).join('') + '</ul></main>';
       files[path + 'index.html'] = layout({
         path: path, main: main, current: 'cat:' + c.slug,
         title: (c.title || c.name) + ' | ' + site.name, description: c.description,
@@ -427,7 +428,7 @@
       path: '404.html', prefix: basePath, canonical: abs('404.html'), noindex: true, title: 'Page not found | ' + site.name,
       description: 'This page does not exist.',
       main: '<main id="main" class="wrap"><header class="page-head"><h1>That page is not here</h1><p>The address may be mistyped, or the article may have moved. These are the newest articles.</p></header>' +
-        '<ul class="ledger">' + posts.slice(0, 5).map(function (p) { return row(p, basePath, { tag: 'h2' }); }).join('') + '</ul>' +
+        '<ul class="cards">' + posts.slice(0, 6).map(function (p) { return card(p, basePath, { tag: 'h2' }); }).join('') + '</ul>' +
         '<p style="margin-top:1.5rem"><a class="btn" href="' + basePath + '">Go to the home page</a></p></main>'
     });
 
