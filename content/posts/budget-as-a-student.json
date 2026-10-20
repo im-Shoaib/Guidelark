@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$200",
   "figureLabel": "a week, all term",
-  "cover": null,
-  "ogImage": "assets/img/og/budget-as-a-student.png",
+  "cover": {
+    "src": "assets/img/posts/cover-5e796-1200x675.webp",
+    "src600": "assets/img/posts/cover-5e796-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Textbooks, a laptop and a small jar of coins on a wooden desk"
+  },
+  "ogImage": "assets/img/og/cover-5e796.jpg",
   "seoTitle": "",
   "keywords": "how to budget as a student student budget semester budget college budget weekly allowance",
   "takeaways": [

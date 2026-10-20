@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$100+",
   "figureLabel": "a month, plus setup",
-  "cover": null,
-  "ogImage": "assets/img/og/cost-of-a-dog-first-year.png",
+  "cover": {
+    "src": "assets/img/posts/cover-w0wuj-1200x675.webp",
+    "src600": "assets/img/posts/cover-w0wuj-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A dog bowl, a coiled leather leash and a pink piggy bank"
+  },
+  "ogImage": "assets/img/og/cover-w0wuj.jpg",
   "seoTitle": "",
   "keywords": "cost of a dog first year how much does a dog cost per month puppy costs dog budget vet bills",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$1,378",
   "figureLabel": "in 52 weeks",
-  "cover": null,
-  "ogImage": "assets/img/og/52-week-savings-challenge.png",
+  "cover": {
+    "src": "assets/img/posts/cover-2r9ai-1200x675.webp",
+    "src600": "assets/img/posts/cover-2r9ai-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A glass jar full of coins next to a small blank desk calendar"
+  },
+  "ogImage": "assets/img/og/cover-2r9ai.jpg",
   "seoTitle": "",
   "keywords": "52 week savings challenge 52 week money challenge reverse 52 week challenge savings challenge printable",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "1x",
   "figureLabel": "salary is a rule of thumb",
-  "cover": null,
-  "ogImage": "assets/img/og/how-much-saved-by-30.png",
+  "cover": {
+    "src": "assets/img/posts/cover-wcspg-1200x675.webp",
+    "src600": "assets/img/posts/cover-wcspg-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A cake with a lit number 30 candle next to a pink piggy bank"
+  },
+  "ogImage": "assets/img/og/cover-wcspg.jpg",
   "seoTitle": "",
   "keywords": "how much should i have saved by 30 savings by age 30 retirement savings by age benchmark fidelity",
   "takeaways": [

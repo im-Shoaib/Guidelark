@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "30",
   "figureLabel": "days before it is reported",
-  "cover": null,
-  "ogImage": "assets/img/og/missed-credit-card-payment.png",
+  "cover": {
+    "src": "assets/img/posts/cover-7obmk-1200x675.webp",
+    "src600": "assets/img/posts/cover-7obmk-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "An alarm clock next to a blank card and a yellow sticky note"
+  },
+  "ogImage": "assets/img/og/cover-7obmk.jpg",
   "seoTitle": "",
   "keywords": "missed credit card payment what happens if you miss a credit card payment late fee waiver late payment credit report",
   "takeaways": [

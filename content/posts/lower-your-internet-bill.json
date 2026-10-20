@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "1",
   "figureLabel": "phone call can do it",
-  "cover": null,
-  "ogImage": "assets/img/og/lower-your-internet-bill.png",
+  "cover": {
+    "src": "assets/img/posts/cover-b21r1-1200x675.webp",
+    "src600": "assets/img/posts/cover-b21r1-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A white Wi-Fi router, a phone and a pair of scissors"
+  },
+  "ogImage": "assets/img/og/cover-b21r1.jpg",
   "seoTitle": "",
   "keywords": "lower internet bill how to negotiate internet bill cheaper internet plans internet bill too high equipment rental fee",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$50",
   "figureLabel": "a month, started early",
-  "cover": null,
-  "ogImage": "assets/img/og/compound-interest-explained-simply.png",
+  "cover": {
+    "src": "assets/img/posts/cover-nnsw5-1200x675.webp",
+    "src600": "assets/img/posts/cover-nnsw5-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Five stacks of coins growing taller, with a small plant on top of the tallest"
+  },
+  "ogImage": "assets/img/og/cover-nnsw5.jpg",
   "seoTitle": "",
   "keywords": "compound interest explained simply how compound interest works compound interest example rule of 72 saving early",
   "takeaways": [

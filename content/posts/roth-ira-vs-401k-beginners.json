@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$7,500",
   "figureLabel": "Roth IRA limit for 2026",
-  "cover": null,
-  "ogImage": "assets/img/og/roth-ira-vs-401k-beginners.png",
+  "cover": {
+    "src": "assets/img/posts/cover-vttrf-1200x675.webp",
+    "src600": "assets/img/posts/cover-vttrf-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Two cream piggy banks, one large and one small, side by side"
+  },
+  "ogImage": "assets/img/og/cover-vttrf.jpg",
   "seoTitle": "",
   "keywords": "roth ira vs 401k roth ira vs 401k for beginners 401k employer match 2026 contribution limits which retirement account first",
   "takeaways": [

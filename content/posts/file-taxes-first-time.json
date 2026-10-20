@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$16,100",
   "figureLabel": "standard deduction for 2026",
-  "cover": null,
-  "ogImage": "assets/img/og/file-taxes-first-time.png",
+  "cover": {
+    "src": "assets/img/posts/cover-i466o-1200x675.webp",
+    "src600": "assets/img/posts/cover-i466o-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A neat stack of paper forms next to a calculator and a pencil"
+  },
+  "ogImage": "assets/img/og/cover-i466o.jpg",
   "seoTitle": "How to File Taxes for the First Time (2026 Tax Year)",
   "keywords": "how to file taxes for the first time first time filing taxes standard deduction 2026 do i need to file taxes free file irs",
   "takeaways": [

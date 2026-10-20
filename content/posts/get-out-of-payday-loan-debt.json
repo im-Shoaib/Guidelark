@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$120",
   "figureLabel": "saved by skipping rollovers",
-  "cover": null,
-  "ogImage": "assets/img/og/get-out-of-payday-loan-debt.png",
+  "cover": {
+    "src": "assets/img/posts/cover-gzsia-1200x675.webp",
+    "src600": "assets/img/posts/cover-gzsia-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A broken metal chain beside a few folded paper notes"
+  },
+  "ogImage": "assets/img/og/cover-gzsia.jpg",
   "seoTitle": "",
   "keywords": "how to get out of payday loan debt payday loan rollover extended payment plan stop payday loan debit",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "7",
   "figureLabel": "days to start",
-  "cover": null,
-  "ogImage": "assets/img/og/no-spend-challenge.png",
+  "cover": {
+    "src": "assets/img/posts/cover-ye1ay-1200x675.webp",
+    "src600": "assets/img/posts/cover-ye1ay-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A brown wallet tied shut with a red ribbon"
+  },
+  "ogImage": "assets/img/og/cover-ye1ay.jpg",
   "seoTitle": "",
   "keywords": "no spend challenge no spend month no spend week rules how to do a no spend challenge",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "30",
   "figureLabel": "days to investigate",
-  "cover": null,
-  "ogImage": "assets/img/og/dispute-credit-report-error.png",
+  "cover": {
+    "src": "assets/img/posts/cover-ujjyi-1200x675.webp",
+    "src600": "assets/img/posts/cover-ujjyi-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A magnifying glass resting on a printed report, with a pen beside it"
+  },
+  "ogImage": "assets/img/og/cover-ujjyi.jpg",
   "seoTitle": "",
   "keywords": "how to dispute credit report error credit report dispute letter remove late payment credit freeze",
   "takeaways": [

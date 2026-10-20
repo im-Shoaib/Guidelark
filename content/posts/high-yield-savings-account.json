@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$181",
   "figureLabel": "more a year on $5,000",
-  "cover": null,
-  "ogImage": "assets/img/og/high-yield-savings-account.png",
+  "cover": {
+    "src": "assets/img/posts/cover-p22x1-1200x675.webp",
+    "src600": "assets/img/posts/cover-p22x1-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A white piggy bank with a small pile of gold coins beside it"
+  },
+  "ogImage": "assets/img/og/cover-p22x1.jpg",
   "seoTitle": "",
   "keywords": "high yield savings account what is a high yield savings account is a high yield savings account worth it hysa apy fdic insured",
   "takeaways": [

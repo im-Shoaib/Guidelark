@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "7.65%",
   "figureLabel": "FICA on every paycheck",
-  "cover": null,
-  "ogImage": "assets/img/og/how-to-read-your-paycheck.png",
+  "cover": {
+    "src": "assets/img/posts/cover-i3ule-1200x675.webp",
+    "src600": "assets/img/posts/cover-i3ule-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A magnifying glass on a sheet of paper with a pen beside it"
+  },
+  "ogImage": "assets/img/og/cover-i3ule.jpg",
   "seoTitle": "",
   "keywords": "how to read your paycheck pay stub explained what is fica on my paycheck gross vs net pay ytd meaning",
   "takeaways": [

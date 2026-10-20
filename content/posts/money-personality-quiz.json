@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "10",
   "figureLabel": "questions, 4 types",
-  "cover": null,
-  "ogImage": "assets/img/og/money-personality-quiz.png",
+  "cover": {
+    "src": "assets/img/posts/cover-60has-1200x675.webp",
+    "src600": "assets/img/posts/cover-60has-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Four coloured cards, teal, coral, yellow and lilac, fanned out next to a pencil"
+  },
+  "ogImage": "assets/img/og/cover-60has.jpg",
   "seoTitle": "",
   "keywords": "money personality quiz money personality types saver spender quiz financial personality test",
   "takeaways": [

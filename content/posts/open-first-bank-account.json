@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "15",
   "figureLabel": "minutes to open one online",
-  "cover": null,
-  "ogImage": "assets/img/og/open-first-bank-account.png",
+  "cover": {
+    "src": "assets/img/posts/cover-09gov-1200x675.webp",
+    "src600": "assets/img/posts/cover-09gov-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A blank card and a pen next to a small potted plant"
+  },
+  "ogImage": "assets/img/og/cover-09gov.jpg",
   "seoTitle": "",
   "keywords": "how to open a bank account first bank account checking vs savings what do you need to open a bank account student account",
   "takeaways": [

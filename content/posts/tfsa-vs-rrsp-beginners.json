@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$7,000",
   "figureLabel": "new TFSA room in 2026",
-  "cover": null,
-  "ogImage": "assets/img/og/tfsa-vs-rrsp-beginners.png",
+  "cover": {
+    "src": "assets/img/posts/cover-rixah-1200x675.webp",
+    "src600": "assets/img/posts/cover-rixah-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Two empty glass jars side by side with a red maple leaf"
+  },
+  "ogImage": "assets/img/og/cover-rixah.jpg",
   "seoTitle": "",
   "keywords": "tfsa vs rrsp which first tfsa limit 2026 rrsp limit 2026 canada beginners",
   "takeaways": [

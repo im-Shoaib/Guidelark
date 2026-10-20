@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "-$3,650",
   "figureLabel": "and moving up",
-  "cover": null,
-  "ogImage": "assets/img/og/how-to-calculate-net-worth.png",
+  "cover": {
+    "src": "assets/img/posts/cover-m04wc-1200x675.webp",
+    "src600": "assets/img/posts/cover-m04wc-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A brass balance scale with a small house on one side and coins on the other"
+  },
+  "ogImage": "assets/img/og/cover-m04wc.jpg",
   "seoTitle": "",
   "keywords": "how to calculate net worth what is net worth net worth calculator negative net worth net worth in your 20s",
   "takeaways": [

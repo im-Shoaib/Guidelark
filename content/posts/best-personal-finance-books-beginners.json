@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "9",
   "figureLabel": "books worth your time",
-  "cover": null,
-  "ogImage": "assets/img/og/best-personal-finance-books-beginners.png",
+  "cover": {
+    "src": "assets/img/posts/cover-7yphh-1200x675.webp",
+    "src600": "assets/img/posts/cover-7yphh-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A stack of four hardback books with reading glasses on top"
+  },
+  "ogImage": "assets/img/og/cover-7yphh.jpg",
   "seoTitle": "",
   "keywords": "best personal finance books for beginners money books beginners psychology of money i will teach you to be rich books about money",
   "takeaways": [

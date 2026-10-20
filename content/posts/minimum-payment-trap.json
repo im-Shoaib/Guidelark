@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "15",
   "figureLabel": "years on the minimum",
-  "cover": null,
-  "ogImage": "assets/img/og/minimum-payment-trap.png",
+  "cover": {
+    "src": "assets/img/posts/cover-pcf6e-1200x675.webp",
+    "src600": "assets/img/posts/cover-pcf6e-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A snail crawling slowly across a blank card"
+  },
+  "ogImage": "assets/img/og/cover-pcf6e.jpg",
   "seoTitle": "",
   "keywords": "minimum payment trap paying only minimum credit card how minimum payments work credit card payoff calculator",
   "takeaways": [

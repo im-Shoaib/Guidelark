@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$1,235",
   "figureLabel": "saved a year",
-  "cover": null,
-  "ogImage": "assets/img/og/cancel-subscriptions.png",
+  "cover": {
+    "src": "assets/img/posts/cover-fon0j-1200x675.webp",
+    "src600": "assets/img/posts/cover-fon0j-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A smartphone, a TV remote and a cup of coffee on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-fon0j.jpg",
   "seoTitle": "",
   "keywords": "how to cancel subscriptions find all subscriptions cancel unused subscriptions subscription audit save money on subscriptions",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "25%",
   "figureLabel": "of every payout",
-  "cover": null,
-  "ogImage": "assets/img/og/gig-worker-taxes.png",
+  "cover": {
+    "src": "assets/img/posts/cover-ae4m7-1200x675.webp",
+    "src600": "assets/img/posts/cover-ae4m7-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "An insulated delivery bag, a phone showing a map and a jar of coins"
+  },
+  "ogImage": "assets/img/og/cover-ae4m7.jpg",
   "seoTitle": "",
   "keywords": "gig worker taxes doordash taxes how much to set aside for taxes 1099 self employment tax quarterly estimated taxes mileage deduction",
   "takeaways": [

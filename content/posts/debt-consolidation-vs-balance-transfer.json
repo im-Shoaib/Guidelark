@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$6,000",
   "figureLabel": "paid three ways",
-  "cover": null,
-  "ogImage": "assets/img/og/debt-consolidation-vs-balance-transfer.png",
+  "cover": {
+    "src": "assets/img/posts/cover-c4c94-1200x675.webp",
+    "src600": "assets/img/posts/cover-c4c94-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A fan of blank cards tied together with string"
+  },
+  "ogImage": "assets/img/og/cover-c4c94.jpg",
   "seoTitle": "",
   "keywords": "debt consolidation vs balance transfer balance transfer card consolidation loan which is better credit card debt",
   "takeaways": [

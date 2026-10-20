@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$386",
   "figureLabel": "a month you did not notice",
-  "cover": null,
-  "ogImage": "assets/img/og/spending-audit.png",
+  "cover": {
+    "src": "assets/img/posts/cover-cvofu-1200x675.webp",
+    "src600": "assets/img/posts/cover-cvofu-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Printed statements with three highlighters, yellow, pink and teal"
+  },
+  "ogImage": "assets/img/og/cover-cvofu.jpg",
   "seoTitle": "",
   "keywords": "spending audit how to do a spending audit where does my money go track spending categories",
   "takeaways": [

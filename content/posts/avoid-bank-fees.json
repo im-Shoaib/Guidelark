@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "8",
   "figureLabel": "fees, eight fixes",
-  "cover": null,
-  "ogImage": "assets/img/og/avoid-bank-fees.png",
+  "cover": {
+    "src": "assets/img/posts/cover-mxrla-1200x675.webp",
+    "src600": "assets/img/posts/cover-mxrla-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A brown leather wallet next to a short stack of coins on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-mxrla.jpg",
   "seoTitle": "",
   "keywords": "how to avoid bank fees overdraft fees monthly maintenance fee atm fees bank fee refund",
   "takeaways": [

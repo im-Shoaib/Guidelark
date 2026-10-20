@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$1,080",
   "figureLabel": "a year in matched money",
-  "cover": null,
-  "ogImage": "assets/img/og/401k-employer-match-explained.png",
+  "cover": {
+    "src": "assets/img/posts/cover-o2c2f-1200x675.webp",
+    "src600": "assets/img/posts/cover-o2c2f-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Two hands each dropping a coin into the same glass jar"
+  },
+  "ogImage": "assets/img/og/cover-o2c2f.jpg",
   "seoTitle": "",
   "keywords": "401k match explained employer match how 401k matching works vesting schedule how much to contribute",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$300",
   "figureLabel": "a month, three goals",
-  "cover": null,
-  "ogImage": "assets/img/og/set-financial-goals.png",
+  "cover": {
+    "src": "assets/img/posts/cover-wtf3b-1200x675.webp",
+    "src600": "assets/img/posts/cover-wtf3b-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A dart in the centre of a small dartboard on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-wtf3b.jpg",
   "seoTitle": "",
   "keywords": "how to set financial goals smart financial goals examples short term financial goals savings goals plan",
   "takeaways": [

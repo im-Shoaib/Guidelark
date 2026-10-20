@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "1",
   "figureLabel": "month ahead",
-  "cover": null,
-  "ogImage": "assets/img/og/stop-living-paycheck-to-paycheck.png",
+  "cover": {
+    "src": "assets/img/posts/cover-dkkpy-1200x675.webp",
+    "src600": "assets/img/posts/cover-dkkpy-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "An open envelope with a few notes inside next to an hourglass"
+  },
+  "ogImage": "assets/img/og/cover-dkkpy.jpg",
   "seoTitle": "",
   "keywords": "how to stop living paycheck to paycheck break the paycheck cycle get one month ahead buffer",
   "takeaways": [

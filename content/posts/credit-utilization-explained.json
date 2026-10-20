@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "30%",
   "figureLabel": "is a ceiling, not a target",
-  "cover": null,
-  "ogImage": "assets/img/og/credit-utilization-explained.png",
+  "cover": {
+    "src": "assets/img/posts/cover-5l708-1200x675.webp",
+    "src600": "assets/img/posts/cover-5l708-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A blank card next to a glass measuring jug filled partway with water"
+  },
+  "ogImage": "assets/img/og/cover-5l708.jpg",
   "seoTitle": "",
   "keywords": "credit utilization credit utilization ratio what is a good credit utilization small credit limit statement closing date",
   "takeaways": [

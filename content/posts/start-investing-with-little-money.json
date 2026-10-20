@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$100",
   "figureLabel": "a month is enough to start",
-  "cover": null,
-  "ogImage": "assets/img/og/start-investing-with-little-money.png",
+  "cover": {
+    "src": "assets/img/posts/cover-mldu3-1200x675.webp",
+    "src600": "assets/img/posts/cover-mldu3-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A small seedling growing in a clay pot surrounded by coins"
+  },
+  "ogImage": "assets/img/og/cover-mldu3.jpg",
   "seoTitle": "",
   "keywords": "how to start investing with little money investing for beginners invest $100 index fund for beginners fractional shares",
   "takeaways": [

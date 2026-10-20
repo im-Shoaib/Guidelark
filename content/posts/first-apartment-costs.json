@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$4,071",
   "figureLabel": "to move into a $1,400 flat",
-  "cover": null,
-  "ogImage": "assets/img/og/first-apartment-costs.png",
+  "cover": {
+    "src": "assets/img/posts/cover-23uop-1200x675.webp",
+    "src600": "assets/img/posts/cover-23uop-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A set of house keys, a small cardboard box and a potted succulent"
+  },
+  "ogImage": "assets/img/og/cover-23uop.jpg",
   "seoTitle": "",
   "keywords": "first apartment costs how much money do you need to move out move in costs apartment security deposit first apartment budget",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "5%",
   "figureLabel": "is often enough to start",
-  "cover": null,
-  "ogImage": "assets/img/og/save-for-house-deposit-low-income.png",
+  "cover": {
+    "src": "assets/img/posts/cover-erl8r-1200x675.webp",
+    "src600": "assets/img/posts/cover-erl8r-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A small white model house next to a jar of coins and folded notes"
+  },
+  "ogImage": "assets/img/og/cover-erl8r.jpg",
   "seoTitle": "",
   "keywords": "how to save for a house deposit save for a down payment low income first home buyer deposit lifetime isa fha loan",
   "takeaways": [

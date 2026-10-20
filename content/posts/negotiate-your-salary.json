@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$3,000",
   "figureLabel": "more, worth $34k in 10 years",
-  "cover": null,
-  "ogImage": "assets/img/og/negotiate-your-salary.png",
+  "cover": {
+    "src": "assets/img/posts/cover-l0id6-1200x675.webp",
+    "src600": "assets/img/posts/cover-l0id6-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A closed laptop, a notebook and two cups of coffee facing each other"
+  },
+  "ogImage": "assets/img/og/cover-l0id6.jpg",
   "seoTitle": "",
   "keywords": "how to negotiate salary negotiate salary first job salary negotiation scripts how to ask for more money job offer",
   "takeaways": [

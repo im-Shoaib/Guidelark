@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "100%",
   "figureLabel": "back is the goal",
-  "cover": null,
-  "ogImage": "assets/img/og/get-security-deposit-back.png",
+  "cover": {
+    "src": "assets/img/posts/cover-fjftg-1200x675.webp",
+    "src600": "assets/img/posts/cover-fjftg-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A set of keys on an envelope next to a small camera"
+  },
+  "ogImage": "assets/img/og/cover-fjftg.jpg",
   "seoTitle": "",
   "keywords": "how to get security deposit back security deposit deductions wear and tear deposit letter landlord",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "1-6",
   "figureLabel": "pay in this order",
-  "cover": null,
-  "ogImage": "assets/img/og/cant-pay-my-bills.png",
+  "cover": {
+    "src": "assets/img/posts/cover-roy7z-1200x675.webp",
+    "src600": "assets/img/posts/cover-roy7z-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A stack of envelopes, a phone and a cup of tea on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-roy7z.jpg",
   "seoTitle": "",
   "keywords": "cant pay my bills what bills to pay first behind on bills hardship plan late rent utility shutoff",
   "takeaways": [

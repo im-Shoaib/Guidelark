@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$840",
   "figureLabel": "saved a year",
-  "cover": null,
-  "ogImage": "assets/img/og/negotiate-your-rent.png",
+  "cover": {
+    "src": "assets/img/posts/cover-5tu3m-1200x675.webp",
+    "src600": "assets/img/posts/cover-5tu3m-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A small model house, a set of keys and a folded paper document"
+  },
+  "ogImage": "assets/img/og/cover-5tu3m.jpg",
   "seoTitle": "",
   "keywords": "how to negotiate rent negotiate rent increase rent renewal negotiation lower rent landlord script",
   "takeaways": [

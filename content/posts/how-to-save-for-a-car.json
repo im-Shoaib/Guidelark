@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "10%",
   "figureLabel": "of pay for all car costs",
-  "cover": null,
-  "ogImage": "assets/img/og/how-to-save-for-a-car.png",
+  "cover": {
+    "src": "assets/img/posts/cover-vj96y-1200x675.webp",
+    "src600": "assets/img/posts/cover-vj96y-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A red toy car on top of a stack of gold coins"
+  },
+  "ogImage": "assets/img/og/cover-vj96y.jpg",
   "seoTitle": "",
   "keywords": "how to save for a car 20/4/10 rule how much car can i afford car down payment used car budget",
   "takeaways": [

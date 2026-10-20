@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "RAP",
   "figureLabel": "or Tiered Standard",
-  "cover": null,
-  "ogImage": "assets/img/og/student-loan-repayment-2026.png",
+  "cover": {
+    "src": "assets/img/posts/cover-2c7uq-1200x675.webp",
+    "src600": "assets/img/posts/cover-2c7uq-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A graduation cap resting on a stack of papers"
+  },
+  "ogImage": "assets/img/og/cover-2c7uq.jpg",
   "seoTitle": "",
   "keywords": "student loan repayment plans 2026 RAP repayment assistance plan tiered standard plan SAVE plan ended",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "½",
   "figureLabel": "of every bill, every payday",
-  "cover": null,
-  "ogImage": "assets/img/og/half-payment-method.png",
+  "cover": {
+    "src": "assets/img/posts/cover-6fdk3-1200x675.webp",
+    "src600": "assets/img/posts/cover-6fdk3-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A large banknote-style note cut into two halves next to two envelopes"
+  },
+  "ogImage": "assets/img/og/cover-6fdk3.jpg",
   "seoTitle": "",
   "keywords": "half payment method budgeting split bills between paychecks paycheck budgeting semi monthly pay",
   "takeaways": [

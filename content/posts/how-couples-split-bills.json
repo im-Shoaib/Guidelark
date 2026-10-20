@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "60/40",
   "figureLabel": "split by income",
-  "cover": null,
-  "ogImage": "assets/img/og/how-couples-split-bills.png",
+  "cover": {
+    "src": "assets/img/posts/cover-7o96k-1200x675.webp",
+    "src600": "assets/img/posts/cover-7o96k-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Two coffee mugs and two brown wallets side by side"
+  },
+  "ogImage": "assets/img/og/cover-7o96k.jpg",
   "seoTitle": "",
   "keywords": "how couples split bills split bills by income couples finances unequal income joint account",
   "takeaways": [

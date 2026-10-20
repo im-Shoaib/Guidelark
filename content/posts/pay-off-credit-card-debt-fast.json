@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "13",
   "figureLabel": "months to clear $5,000",
-  "cover": null,
-  "ogImage": "assets/img/og/pay-off-credit-card-debt-fast.png",
+  "cover": {
+    "src": "assets/img/posts/cover-vbnd3-1200x675.webp",
+    "src600": "assets/img/posts/cover-vbnd3-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Scissors cutting a card in two next to a jar of coins"
+  },
+  "ogImage": "assets/img/og/cover-vbnd3.jpg",
   "seoTitle": "",
   "keywords": "how to pay off credit card debt fast pay off credit cards credit card payoff plan balance transfer debt avalanche",
   "takeaways": [

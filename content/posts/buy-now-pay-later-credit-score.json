@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "4",
   "figureLabel": "plans at once add up",
-  "cover": null,
-  "ogImage": "assets/img/og/buy-now-pay-later-credit-score.png",
+  "cover": {
+    "src": "assets/img/posts/cover-9xwwt-1200x675.webp",
+    "src600": "assets/img/posts/cover-9xwwt-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A paper shopping bag with four small tags hanging from its handle"
+  },
+  "ogImage": "assets/img/og/cover-9xwwt.jpg",
   "seoTitle": "",
   "keywords": "does buy now pay later affect credit score klarna credit score afterpay affirm credit reporting bnpl",
   "takeaways": [

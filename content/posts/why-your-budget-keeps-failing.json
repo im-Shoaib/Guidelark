@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "6",
   "figureLabel": "reasons, six fixes",
-  "cover": null,
-  "ogImage": "assets/img/og/why-your-budget-keeps-failing.png",
+  "cover": {
+    "src": "assets/img/posts/cover-flu8m-1200x675.webp",
+    "src600": "assets/img/posts/cover-flu8m-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A crumpled ball of paper, a notebook and a calculator"
+  },
+  "ogImage": "assets/img/og/cover-flu8m.jpg",
   "seoTitle": "",
   "keywords": "why your budget keeps failing budget not working why budgets fail how to stick to a budget budget mistakes",
   "takeaways": [

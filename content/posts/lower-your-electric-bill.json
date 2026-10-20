@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$302",
   "figureLabel": "saved a year",
-  "cover": null,
-  "ogImage": "assets/img/og/lower-your-electric-bill.png",
+  "cover": {
+    "src": "assets/img/posts/cover-fju5o-1200x675.webp",
+    "src600": "assets/img/posts/cover-fju5o-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A glowing LED light bulb next to a round smart plug"
+  },
+  "ogImage": "assets/img/og/cover-fju5o.jpg",
   "seoTitle": "",
   "keywords": "how to lower your electric bill save electricity at home reduce electric bill tips energy saving tips renters",
   "takeaways": [

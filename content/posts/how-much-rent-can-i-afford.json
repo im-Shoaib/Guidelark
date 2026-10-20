@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "30%",
   "figureLabel": "of take-home, not gross",
-  "cover": null,
-  "ogImage": "assets/img/og/how-much-rent-can-i-afford.png",
+  "cover": {
+    "src": "assets/img/posts/cover-8ye69-1200x675.webp",
+    "src600": "assets/img/posts/cover-8ye69-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A small model house sitting on top of a calculator"
+  },
+  "ogImage": "assets/img/og/cover-8ye69.jpg",
   "seoTitle": "",
   "keywords": "how much rent can i afford 30 percent rule rent calculator rent to income ratio take home pay",
   "takeaways": [

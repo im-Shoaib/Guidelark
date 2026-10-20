@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "vs",
   "figureLabel": "same basket, two wrappers",
-  "cover": null,
-  "ogImage": "assets/img/og/index-fund-vs-etf.png",
+  "cover": {
+    "src": "assets/img/posts/cover-78mhf-1200x675.webp",
+    "src600": "assets/img/posts/cover-78mhf-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Two baskets of the same red apples, one wicker and one wrapped in paper"
+  },
+  "ogImage": "assets/img/og/cover-78mhf.jpg",
   "seoTitle": "",
   "keywords": "index fund vs etf difference between index fund and etf etf for beginners mutual fund vs etf",
   "takeaways": [

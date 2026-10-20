@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "30",
   "figureLabel": "days, one task each",
-  "cover": null,
-  "ogImage": "assets/img/og/30-day-money-reset-challenge.png",
+  "cover": {
+    "src": "assets/img/posts/cover-hvb3y-1200x675.webp",
+    "src600": "assets/img/posts/cover-hvb3y-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A desk calendar with most days ticked off and a pen on a sunny wooden table"
+  },
+  "ogImage": "assets/img/og/cover-hvb3y.jpg",
   "seoTitle": "",
   "keywords": "30 day money challenge money reset challenge new year money challenge financial reset checklist",
   "takeaways": [

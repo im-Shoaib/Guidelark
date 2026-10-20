@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "5",
   "figureLabel": "days to send validation",
-  "cover": null,
-  "ogImage": "assets/img/og/deal-with-debt-collectors.png",
+  "cover": {
+    "src": "assets/img/posts/cover-of5xs-1200x675.webp",
+    "src600": "assets/img/posts/cover-of5xs-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A phone lying next to a notepad and pen on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-of5xs.jpg",
   "seoTitle": "",
   "keywords": "debt collectors calling rights debt validation letter what to say to debt collectors fdcpa",
   "takeaways": [
