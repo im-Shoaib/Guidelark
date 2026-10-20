@@ -58,8 +58,11 @@
   function isAbsolute(u) { return /^([a-z][a-z0-9+.-]*:|\/\/|#)/i.test(u); }
 
   /* ---------- Markdown ---------- */
-  function renderMarkdown(md, marked, P) {
+  function renderMarkdown(md, marked, P, hidden) {
     P = P || '';
+    hidden = hidden || {};
+    /* a link to an article that is not live yet (future date or draft) becomes plain text until it is */
+    var pendingSlug = function (u) { var m = /^\/?blog\/([^\/?#]+)\/?(?:[?#].*)?$/.exec(u || ''); return m && hidden[m[1]] ? m[1] : ''; };
     var toc = [], used = {};
     var fixUrl = function (u) {
       if (!u || isAbsolute(u)) return u;
@@ -83,6 +86,7 @@
         },
         link: function (href, title, text) {
           var ext = /^https?:\/\//i.test(href || '');
+          if (!ext && pendingSlug(href)) return text;
           return '<a href="' + esc(ext ? href : fixUrl(href)) + '"' + (title ? ' title="' + esc(title) + '"' : '') +
             (ext ? ' rel="noopener"' : '') + '>' + text + '</a>';
         },
@@ -93,6 +97,7 @@
     });
     var html = m.parse(String(md || '')).replace(/(<t[dh]) align="(left|right|center)"/g, '$1 class="a-$2"');
     /* raw HTML in the Markdown: fix site-relative src/href too */
+    html = html.replace(/<a\b[^>]*?\shref="(\/[^"]*)"[^>]*>([\s\S]*?)<\/a>/g, function (all, u, inner) { return pendingSlug(u) ? inner : all; });
     html = html.replace(/(<(?:img|a|source|video|iframe)\b[^>]*?\s(?:src|href)=")(\/(?!\/)[^"]*)"/g, function (all, pre, u) {
       return pre + P + u.replace(/^\/+/, '') + '"';
     });
@@ -137,6 +142,8 @@
       if (!catBy[p.category]) warnings.push('"' + p.title + '" uses a topic that does not exist: ' + p.category);
       return true;
     }).sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : a.title.localeCompare(b.title); });
+    var live = {}; posts.forEach(function (p) { live[p.slug] = 1; });
+    var pending = {}; (input.posts || []).forEach(function (p) { var sl = p && (p.slug || (p.title && slugify(p.title))); if (sl && !live[sl]) pending[sl] = 1; });
     var pages = (input.pages || []).filter(function (p) { return p && p.slug && p.title; })
       .sort(function (a, b) { return (a.order || 99) - (b.order || 99) || a.title.localeCompare(b.title); });
     var aboutPage = pages.filter(function (p) { return p.slug === 'about'; })[0];
@@ -283,7 +290,7 @@
       opt = opt || {};
       var path = postPath(p);
       var P = opt.prefix != null ? opt.prefix : prefixFor(path);
-      var md = renderMarkdown(p.body, marked, P);
+      var md = renderMarkdown(p.body, marked, P, pending);
       var c = catBy[p.category];
       var related = posts.filter(function (x) { return x.slug !== p.slug && x.category === p.category; })
         .concat(posts.filter(function (x) { return x.slug !== p.slug && x.category !== p.category; })).slice(0, 3);
@@ -414,7 +421,7 @@
     };
     pages.forEach(function (pg) {
       var path = pg.slug + '/', P = prefixFor(path);
-      var md = renderMarkdown(tokens(pg.body), marked, P);
+      var md = renderMarkdown(tokens(pg.body), marked, P, pending);
       var main = '<main id="main" class="wrap"><header class="page-head"><ol class="crumbs"><li><a href="' + P + '">Home</a></li></ol><h1>' + esc(pg.title) + '</h1>' +
         (pg.updated ? '<div class="meta"><time datetime="' + esc(pg.updated) + '">Last updated ' + fmtDate(pg.updated) + '</time></div>' : '') + '</header><div class="prose">' + md.html + '</div></main>';
       var schema = [];
