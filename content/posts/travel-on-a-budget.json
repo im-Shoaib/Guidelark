@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$650",
   "figureLabel": "for a 4-day trip",
-  "cover": null,
-  "ogImage": "assets/img/og/travel-on-a-budget.png",
+  "cover": {
+    "src": "assets/img/posts/cover-zmlo0-1200x675.webp",
+    "src600": "assets/img/posts/cover-zmlo0-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A canvas backpack, a folded paper map and a passport with a few coins on a wooden table"
+  },
+  "ogImage": "assets/img/og/cover-zmlo0.jpg",
   "seoTitle": "",
   "keywords": "how to travel on a budget cheap holiday budget travel tips plan a trip on a budget cheap vacation ideas",
   "takeaways": [

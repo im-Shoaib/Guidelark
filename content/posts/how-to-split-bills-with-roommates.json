@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "3",
   "figureLabel": "fair ways to split",
-  "cover": null,
-  "ogImage": "assets/img/og/how-to-split-bills-with-roommates.png",
+  "cover": {
+    "src": "assets/img/posts/cover-ip4q7-1200x675.webp",
+    "src600": "assets/img/posts/cover-ip4q7-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Three different coffee mugs in a row next to a set of keys and a few folded banknotes"
+  },
+  "ogImage": "assets/img/og/cover-ip4q7.jpg",
   "seoTitle": "",
   "keywords": "how to split bills with roommates split rent with roommates how to split rent fairly split utilities roommates roommate agreement",
   "takeaways": [

@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "6",
   "figureLabel": "months to a first FICO score",
-  "cover": null,
-  "ogImage": "assets/img/og/how-to-build-credit-from-scratch.png",
+  "cover": {
+    "src": "assets/img/posts/cover-rci8k-1200x675.webp",
+    "src600": "assets/img/posts/cover-rci8k-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A plain navy card resting on an open notebook, with a pen and a seedling in a small pot"
+  },
+  "ogImage": "assets/img/og/cover-rci8k.jpg",
   "seoTitle": "",
   "keywords": "how to build credit from scratch no credit history secured credit card authorized user credit-builder loan first credit score",
   "takeaways": [

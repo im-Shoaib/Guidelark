@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$75",
   "figureLabel": "a month for a $900 bill",
-  "cover": null,
-  "ogImage": "assets/img/og/sinking-funds-for-beginners.png",
+  "cover": {
+    "src": "assets/img/posts/cover-qjoys-1200x675.webp",
+    "src600": "assets/img/posts/cover-qjoys-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A row of kraft paper envelopes, with coins dropping into the open one in the middle"
+  },
+  "ogImage": "assets/img/og/cover-qjoys.jpg",
   "seoTitle": "",
   "keywords": "sinking funds for beginners what is a sinking fund sinking fund vs emergency fund how much to put in a sinking fund irregular expenses",
   "takeaways": [

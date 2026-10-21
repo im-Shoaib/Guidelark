@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "24",
   "figureLabel": "hours before you buy",
-  "cover": null,
-  "ogImage": "assets/img/og/how-to-stop-impulse-spending.png",
+  "cover": {
+    "src": "assets/img/posts/cover-ll6lf-1200x675.webp",
+    "src600": "assets/img/posts/cover-ll6lf-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "A paper shopping bag with a small wooden hourglass and a smartphone in front of it"
+  },
+  "ogImage": "assets/img/og/cover-ll6lf.jpg",
   "seoTitle": "",
   "keywords": "how to stop impulse spending stop impulse buying impulse spending triggers 24-hour rule emotional spending buy now pay later",
   "takeaways": [

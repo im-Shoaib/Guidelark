@@ -9,8 +9,14 @@
   "featured": false,
   "figure": "$1,900",
   "figureLabel": "the floor, not the average",
-  "cover": null,
-  "ogImage": "assets/img/og/budget-with-irregular-income.png",
+  "cover": {
+    "src": "assets/img/posts/cover-3et8s-1200x675.webp",
+    "src600": "assets/img/posts/cover-3et8s-600x338.webp",
+    "w": 1200,
+    "h": 675,
+    "alt": "Three glass jars of coins and notes, the middle one fuller, next to a notebook and pen"
+  },
+  "ogImage": "assets/img/og/cover-3et8s.jpg",
   "seoTitle": "",
   "keywords": "budget with irregular income budgeting with variable income how to budget as a freelancer budget for gig workers pay yourself a salary save for taxes freelancer",
   "takeaways": [
