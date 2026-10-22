@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 20 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>Sinking Funds for Beginners: Save a Little Each Month</title>
+<link>https://guidelark.com/blog/sinking-funds-for-beginners/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/sinking-funds-for-beginners/</guid>
+<pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>Learn how sinking funds for beginners work. Turn big irregular bills into small monthly savings with a simple starter plan.</description>
+</item>
 <item>
 <title>How to Split Bills With Roommates Fairly (With Template)</title>
 <link>https://guidelark.com/blog/how-to-split-bills-with-roommates/</link>
@@ -158,14 +166,6 @@
 <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
 <category>Budgeting</category>
 <description>How the 50/30/20 budget rule works, the maths on three real incomes, why it breaks on a low income or high rent, and four alternatives that fit better.</description>
-</item>
-<item>
-<title>Debt Snowball vs Avalanche: Which Pays Off Debt Faster?</title>
-<link>https://guidelark.com/blog/debt-snowball-vs-avalanche/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/debt-snowball-vs-avalanche/</guid>
-<pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
-<category>Debt</category>
-<description>Debt snowball vs avalanche on the same three debts: months to debt-free, interest paid, what the research says, and how to pick the one you&#39;ll finish.</description>
 </item>
 </channel>
 </rss>
