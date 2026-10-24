@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 22 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>Why Your Budget Keeps Failing (And How to Fix It)</title>
+<link>https://guidelark.com/blog/why-your-budget-keeps-failing/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/why-your-budget-keeps-failing/</guid>
+<pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
+<category>Budgeting</category>
+<description>Why your budget keeps failing: guessed numbers, no fun money, forgotten yearly bills and no buffer. Six fixes, with a worked example that adds up.</description>
+</item>
 <item>
 <title>Sinking Funds for Beginners: Save a Little Each Month</title>
 <link>https://guidelark.com/blog/sinking-funds-for-beginners/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
 <category>Budgeting</category>
 <description>A step-by-step budget for incomes under $1,000 a month: what to pay first, a worked example, and what to do when the numbers don&#39;t add up.</description>
-</item>
-<item>
-<title>The 50/30/20 Rule on a Low Income: Does It Work?</title>
-<link>https://guidelark.com/blog/50-30-20-rule-explained/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/50-30-20-rule-explained/</guid>
-<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-<category>Budgeting</category>
-<description>How the 50/30/20 budget rule works, the maths on three real incomes, why it breaks on a low income or high rent, and four alternatives that fit better.</description>
 </item>
 </channel>
 </rss>
