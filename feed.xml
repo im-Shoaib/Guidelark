@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>What Is a High-Yield Savings Account (And Is It Worth It?)</title>
+<link>https://guidelark.com/blog/high-yield-savings-account/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/high-yield-savings-account/</guid>
+<pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>What a high-yield savings account is, how much more it can earn than a regular account, whether it is safe, and how to open one in about 15 minutes.</description>
+</item>
 <item>
 <title>Why Your Budget Keeps Failing (And How to Fix It)</title>
 <link>https://guidelark.com/blog/why-your-budget-keeps-failing/</link>
@@ -158,14 +166,6 @@
 <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
 <category>Earning</category>
 <description>What the first 90 days of freelancing usually look like: a slow first month, platform fees, a sample income breakdown, and how to get your first client.</description>
-</item>
-<item>
-<title>How to Make a Budget When You Earn Less Than $1,000 a Month</title>
-<link>https://guidelark.com/blog/budget-on-less-than-1000-a-month/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/budget-on-less-than-1000-a-month/</guid>
-<pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
-<category>Budgeting</category>
-<description>A step-by-step budget for incomes under $1,000 a month: what to pay first, a worked example, and what to do when the numbers don&#39;t add up.</description>
 </item>
 </channel>
 </rss>
