@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 31 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Negotiate Your Salary (Even Your First Job)</title>
+<link>https://guidelark.com/blog/negotiate-your-salary/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/negotiate-your-salary/</guid>
+<pubDate>Sun, 01 Nov 2026 08:00:00 +0000</pubDate>
+<category>Earning</category>
+<description>How to negotiate your salary, even for your first job: research the range, pick a number, use simple scripts and handle a no. With real numbers.</description>
+</item>
 <item>
 <title>How to Pay Off Credit Card Debt Fast: A Step-by-Step Plan</title>
 <link>https://guidelark.com/blog/pay-off-credit-card-debt-fast/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>A free sinking funds spreadsheet for Google Sheets and Excel that works out how much to set aside each month for every known cost, with a worked example.</description>
-</item>
-<item>
-<title>SUMIF and SUMIFS in Google Sheets: A Budgeting Guide</title>
-<link>https://guidelark.com/blog/sumifs-google-sheets/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/sumifs-google-sheets/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>Learn SUMIF and SUMIFS in Google Sheets and Excel with seven budgeting examples, a free practice workbook and fixes for common mistakes.</description>
 </item>
 </channel>
 </rss>
