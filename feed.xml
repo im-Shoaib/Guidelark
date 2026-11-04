@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 01 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Cancel Subscriptions You Don&#39;t Use</title>
+<link>https://guidelark.com/blog/cancel-subscriptions/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/cancel-subscriptions/</guid>
+<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>How to find every subscription you pay for, cancel the ones you don&#39;t use, avoid cancellation traps, and work out what you save in a year.</description>
+</item>
 <item>
 <title>How to Negotiate Your Salary (Even Your First Job)</title>
 <link>https://guidelark.com/blog/negotiate-your-salary/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Budgeting</category>
 <description>A monthly money review you can finish in 20 minutes: a five-step checklist, a worked example with real numbers, and what to do when a month goes badly.</description>
-</item>
-<item>
-<title>Sinking Funds Spreadsheet: Save for Costs That Aren&#39;t Monthly</title>
-<link>https://guidelark.com/blog/sinking-funds-spreadsheet/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/sinking-funds-spreadsheet/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>A free sinking funds spreadsheet for Google Sheets and Excel that works out how much to set aside each month for every known cost, with a worked example.</description>
 </item>
 </channel>
 </rss>
