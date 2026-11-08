@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 06 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>Roth IRA vs 401(k) for Beginners in the US</title>
+<link>https://guidelark.com/blog/roth-ira-vs-401k-beginners/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/roth-ira-vs-401k-beginners/</guid>
+<pubDate>Sun, 08 Nov 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>Roth IRA vs 401(k) in plain English: how each is taxed, the 2026 limits, a worked example, and the order most beginners should fund them.</description>
+</item>
 <item>
 <title>First Apartment Costs: How Much Money You Need to Move In</title>
 <link>https://guidelark.com/blog/first-apartment-costs/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>Google Sheets or Excel for your budget? A plain comparison of cost, phone use, offline access, privacy and formulas, and how to choose in one minute.</description>
-</item>
-<item>
-<title>How to Track Expenses in Google Sheets (Free Template)</title>
-<link>https://guidelark.com/blog/track-expenses-google-sheets/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/track-expenses-google-sheets/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>Track your spending in Google Sheets with a free expense tracker: log purchases, pick a month and see totals by category, step by step.</description>
 </item>
 </channel>
 </rss>
