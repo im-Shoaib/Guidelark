@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 08 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Avoid Bank Fees: 8 Fixes That Save You Money</title>
+<link>https://guidelark.com/blog/avoid-bank-fees/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/avoid-bank-fees/</guid>
+<pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>How to avoid bank fees: monthly, overdraft, NSF, ATM and other charges, the fix for each one, and how to ask your bank for a refund.</description>
+</item>
 <item>
 <title>Roth IRA vs 401(k) for Beginners in the US</title>
 <link>https://guidelark.com/blog/roth-ira-vs-401k-beginners/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>A free savings goal tracker for Google Sheets and Excel that works out how much to save each month for every goal, with progress bars.</description>
-</item>
-<item>
-<title>Google Sheets vs Excel for Budgeting: Which Should You Use?</title>
-<link>https://guidelark.com/blog/google-sheets-vs-excel-budgeting/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/google-sheets-vs-excel-budgeting/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>Google Sheets or Excel for your budget? A plain comparison of cost, phone use, offline access, privacy and formulas, and how to choose in one minute.</description>
 </item>
 </channel>
 </rss>
