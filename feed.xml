@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 11 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Read Your Paycheck in the US (2026 Guide)</title>
+<link>https://guidelark.com/blog/how-to-read-your-paycheck/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/how-to-read-your-paycheck/</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+<category>Earning</category>
+<description>How to read your paycheck: gross pay, FICA, federal and state tax, pre-tax and post-tax deductions and YTD, with a worked example and a 7-step check.</description>
+</item>
 <item>
 <title>How to Avoid Bank Fees: 8 Fixes That Save You Money</title>
 <link>https://guidelark.com/blog/avoid-bank-fees/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>A free monthly budget template for Google Sheets and Excel, built for small incomes, with step-by-step setup, a worked example and how the formulas work.</description>
-</item>
-<item>
-<title>Free Savings Goal Tracker Spreadsheet (With Progress Bars)</title>
-<link>https://guidelark.com/blog/savings-goal-tracker/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/savings-goal-tracker/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>A free savings goal tracker for Google Sheets and Excel that works out how much to save each month for every goal, with progress bars.</description>
 </item>
 </channel>
 </rss>
