@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Set Financial Goals You Actually Reach</title>
+<link>https://guidelark.com/blog/set-financial-goals/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/set-financial-goals/</guid>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
+<category>Budgeting</category>
+<description>How to set financial goals you actually reach: turn wishes into SMART goals, put them in order, fit them in your budget and keep them going.</description>
+</item>
 <item>
 <title>How to Read Your Paycheck in the US (2026 Guide)</title>
 <link>https://guidelark.com/blog/how-to-read-your-paycheck/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>A free debt payoff spreadsheet for Google Sheets and Excel. Switch between snowball and avalanche to see your payoff order, debt-free date and interest.</description>
-</item>
-<item>
-<title>Free Monthly Budget Template for Google Sheets and Excel</title>
-<link>https://guidelark.com/blog/free-budget-template-google-sheets/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/free-budget-template-google-sheets/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>A free monthly budget template for Google Sheets and Excel, built for small incomes, with step-by-step setup, a worked example and how the formulas work.</description>
 </item>
 </channel>
 </rss>
