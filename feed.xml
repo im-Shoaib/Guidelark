@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Start Investing With Little Money</title>
+<link>https://guidelark.com/blog/start-investing-with-little-money/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/start-investing-with-little-money/</guid>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>How to start investing with little money: what to do first, how much you need, one simple fund, fees to avoid, and what $100 a month can grow into.</description>
+</item>
 <item>
 <title>How to Set Financial Goals You Actually Reach</title>
 <link>https://guidelark.com/blog/set-financial-goals/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>A free bill tracker for Google Sheets and Excel that shows days left until each bill is due, highlights bills due soon and has a monthly checklist.</description>
-</item>
-<item>
-<title>Free Debt Snowball Spreadsheet (With an Avalanche Option)</title>
-<link>https://guidelark.com/blog/debt-snowball-spreadsheet/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/debt-snowball-spreadsheet/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>A free debt payoff spreadsheet for Google Sheets and Excel. Switch between snowball and avalanche to see your payoff order, debt-free date and interest.</description>
 </item>
 </channel>
 </rss>
