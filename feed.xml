@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Lower Your Electric Bill Without Changing Your Life</title>
+<link>https://guidelark.com/blog/lower-your-electric-bill/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/lower-your-electric-bill/</guid>
+<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+<category>Saving</category>
+<description>How to lower your electric bill with free habits and cheap fixes: thermostat, standby power, laundry, LEDs and drafts, with a worked example.</description>
+</item>
 <item>
 <title>How to Start Investing With Little Money</title>
 <link>https://guidelark.com/blog/start-investing-with-little-money/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>A free emergency fund calculator for Google Sheets and Excel. See your target from a $500 starter fund to six months of essentials, and when you&#39;ll get there.</description>
-</item>
-<item>
-<title>Free Bill Tracker Template: Never Miss a Due Date</title>
-<link>https://guidelark.com/blog/bill-tracker-template/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/bill-tracker-template/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>A free bill tracker for Google Sheets and Excel that shows days left until each bill is due, highlights bills due soon and has a monthly checklist.</description>
 </item>
 </channel>
 </rss>
