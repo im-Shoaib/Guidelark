@@ -6,7 +6,15 @@
 <description>Practical budgeting, saving, side-income and debt guides for students and people on small incomes. No jargon and no get-rich-quick promises.</description>
 <language>en</language>
 <atom:link href="https://guidelark.com/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 19 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>How to Open a Bank Account: A Beginner&#39;s Guide</title>
+<link>https://guidelark.com/blog/open-first-bank-account/</link>
+<guid isPermaLink="true">https://guidelark.com/blog/open-first-bank-account/</guid>
+<pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
+<category>Budgeting</category>
+<description>How to open a bank account for the first time: checking vs savings, bank vs credit union, what to bring, fees to check, and deposit insurance.</description>
+</item>
 <item>
 <title>How to Lower Your Electric Bill Without Changing Your Life</title>
 <link>https://guidelark.com/blog/lower-your-electric-bill/</link>
@@ -158,14 +166,6 @@
 <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
 <category>Templates</category>
 <description>Paid every two weeks? This free biweekly budget template shows which bills each paycheck must cover, spots short paychecks and three-payday months.</description>
-</item>
-<item>
-<title>Emergency Fund Calculator: How Much You Need and How Long It Takes</title>
-<link>https://guidelark.com/blog/emergency-fund-calculator/</link>
-<guid isPermaLink="true">https://guidelark.com/blog/emergency-fund-calculator/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>Templates</category>
-<description>A free emergency fund calculator for Google Sheets and Excel. See your target from a $500 starter fund to six months of essentials, and when you&#39;ll get there.</description>
 </item>
 </channel>
 </rss>
